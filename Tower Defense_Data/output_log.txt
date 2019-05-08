@@ -1,0 +1,215 @@
+Initialize engine version: 5.6.3f1 (d3101c3b8468)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0xf31)
+    Vendor:   Intel
+    VRAM:     514 MB
+    Driver:   10.18.10.3621
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\Tower Defense\Tower Defense_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\Tower Defense\Tower Defense_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\Tower Defense\Tower Defense_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Unity\Tower Defense\Tower Defense_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Unity\Tower Defense\Tower Defense_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\Tower Defense\Tower Defense_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\Tower Defense\Tower Defense_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\Tower Defense\Tower Defense_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\Tower Defense\Tower Defense_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\Tower Defense\Tower Defense_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.112 seconds
+Platform assembly: D:\Unity\Tower Defense\Tower Defense_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\Tower Defense\Tower Defense_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.933058 ms
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player Win
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.109495 ms
+
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 284.
+Total: 0.450876 ms (FindLiveObjects: 0.069002 ms CreateObjectMapping: 0.033555 ms MarkObjects: 0.248596 ms  DeleteObjects: 0.098776 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.068113 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 390.
+Total: 0.429135 ms (FindLiveObjects: 0.073255 ms CreateObjectMapping: 0.033083 ms MarkObjects: 0.301529 ms  DeleteObjects: 0.020322 ms)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Koin Tidak cukup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Koin Tidak cukup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Koin Tidak cukup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Meletakkan area yg tidak diijinkan
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Koin Tidak cukup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Koin Tidak cukup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Meletakkan area yg tidak diijinkan
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player Win
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.216042 ms
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 284.
+Total: 0.628580 ms (FindLiveObjects: 0.149346 ms CreateObjectMapping: 0.036864 ms MarkObjects: 0.327995 ms  DeleteObjects: 0.111537 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.521768 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 390.
+Total: 0.427245 ms (FindLiveObjects: 0.072782 ms CreateObjectMapping: 0.033083 ms MarkObjects: 0.299166 ms  DeleteObjects: 0.020795 ms)
+
+Koin Tidak cukup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Koin Tidak cukup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Koin Tidak cukup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Koin Tidak cukup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Create Item
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player Lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.107340 ms
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 284.
+Total: 0.652210 ms (FindLiveObjects: 0.128551 ms CreateObjectMapping: 0.036864 ms MarkObjects: 0.349736 ms  DeleteObjects: 0.135168 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.518460 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 390.
+Total: 0.430553 ms (FindLiveObjects: 0.073728 ms CreateObjectMapping: 0.034028 ms MarkObjects: 0.301056 ms  DeleteObjects: 0.019849 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 13f4 -> priority: 1 
+Player Lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
